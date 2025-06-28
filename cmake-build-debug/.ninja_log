@@ -1,0 +1,7 @@
+# ninja log v5
+16	298	7727952731400272	CMakeFiles/C__code.dir/main.cpp.obj	60e337a403aa73a
+298	377	7727952732156279	C__code.exe	bb877db14b247088
+19	303	7716203371119778	CMakeFiles/C__code.dir/employee.cpp.obj	b7fd6faee4faaad6
+1	354	7727952943842081	build.ninja	5ce2062dae11af8b
+22	368	7723914700912625	CMakeFiles/C__code.dir/server/ServerReaderThread.cpp.obj	a0bae6b1e3c821dc
+17	1308	7727796836547769	CMakeFiles/C__code.dir/server/Server.cpp.obj	e0c10ef5a65bf791
